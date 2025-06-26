@@ -85,7 +85,7 @@ A segurança na nuvem é **compartilhada** entre a **AWS** e o **cliente**:
 10. **Utilize tags para controlar e organizar permissões e recursos**.
 
 ---
-# 🧠 Dicas e Exemplos de Segurança no Modelo de Responsabilidade do Cliente
+## 🧠 Dicas e Exemplos de Segurança no Modelo de Responsabilidade do Cliente
 
 Neste guia, você encontrará **dicas práticas com pequenos exemplos** de serviços da AWS em que a responsabilidade de segurança é **do cliente**, de acordo com o **Modelo de Responsabilidade Compartilhada**.
 
