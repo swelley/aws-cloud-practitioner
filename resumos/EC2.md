@@ -1,3 +1,4 @@
+# 💻 EC2 – Amazon Elastic Compute Cloud
 ## O que é?
 
 - EC2 (Elastic Compute Cloud) é um serviço da AWS que permite criar **servidores virtuais** na nuvem.
