@@ -192,7 +192,7 @@ Definir alertas no CloudWatch para ações suspeitas.
 
 A AWS oferece ferramentas para manter seu ambiente seguro, mas cabe ao cliente configurá-las corretamente. Sempre que um serviço permitir acesso, execução, armazenamento ou configuração — você é o responsável por garantir que tudo esteja seguro, monitorado e controlado.
 
-# 🧠 Pense sempre: “Esse serviço está com os acessos mínimos e criptografia ativada?” Se a resposta for "não sei", revise!
+## 🧠 Pense sempre: “Esse serviço está com os acessos mínimos e criptografia ativada?” Se a resposta for "não sei", revise!
 
 ## 📚 Recursos Úteis
 
