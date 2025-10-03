@@ -48,12 +48,6 @@ Reuni aqui os principais conceitos da AWS de forma **simples, didática e acess�
 - Planos de suporte da AWS e como escolher
 - Free Tier: o que é gratuito e por quanto tempo
 
-### 🧪 Simulados e Revisões
-- Questões que errei e corrigi
-- Explicações comentadas das dúvidas mais frequentes
-- Análises do meu desempenho nos simulados
-- Estratégias para revisão eficaz
-
 ---
 
 ## 🧠 Minha metodologia de estudo
